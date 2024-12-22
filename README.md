@@ -36,7 +36,9 @@ Business Goal: You are required to model the demand for shared bikes with the av
 
 
 ## Conclusions
-- Demand of bikes depend on year, temp, winter, summer,Misty,windspeed,Light_snowrain.
+- Demand of bikes is dependent on the following variables
+  - year, temp, sep, summer and winter. (With Positve Coefficients)
+  - holiday, windspeed, Light_snowrain, Misty, spring. (With Negative Coefficients) 
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
