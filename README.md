@@ -45,7 +45,7 @@ Based on various meteorological surveys and people's styles, the service provide
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Seaborn](https://seaborn.pydata.org/)
-- [sklearn] (https://scikit-learn.org/stable/)
+- <u>[sklearn] (https://scikit-learn.org/stable/)</u>
 - [statsmodels] (https://www.statsmodels.org/stable/index.html)
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
